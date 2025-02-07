@@ -17,23 +17,23 @@ def calcualte_sum(a, b):
 
 def greetin(name):
     """
-    Prints a greetin message.
+    Prints a greeting message.
     
     Paramters:
-    name (str): The name of the persone.
+    name (str): The name of the person.
     
     """
-    print(f"Helo, {name}! How are you todya?")
+    print(f"Helo, {name}! How are you today?")
 
 def find_maxium(numbers):
     """
-    Find the maxium number in a list.
+    Find the maximum number in a list.
     
     Paramters:
     numbers (list): A list of intergers.
     
     Retruns:
-    int: The largest numer in the list.
+    int: The largest number in the list.
     """
     maxium = numbers[0]
     for num in numbers:
