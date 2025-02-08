@@ -1,12 +1,12 @@
 """
-This modul contains various types of typos, mispelings, and syntax errors for practicing code review and pull requests.
+This module contains various types of typos, mispellings, and syntax errors for practicing code review and pull requests.
 """
 
-def calcualte_sum(a, b):
+def calculate_sum(a, b):
     """
-    Calcualtes the sum of two numbers.
+    Calculates the sum of two numbers.
     
-    Paramters:
+    Parameters:
     a (int): The first number.
     b (int): The second numer.
     
