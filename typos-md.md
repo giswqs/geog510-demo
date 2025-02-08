@@ -1,36 +1,36 @@
 # Typos Practice File
 
-This file contians various typos, grammatical errors, and incorect spellings. Your task is to find and fix them by submitting a pull request.
+This file contains various typos, grammatical errors, and incorrect spellings. Your task is to find and fix them by submitting a pull request.
 
 ## Section 1: Spelling Errors
 
 Here are some commonly misspelled words:
 
-- Recieve instead of Receive
-- Ocassion instead of Occasion
-- Seperate instead of Separate
-- Definately instead of Definitely
-- Enviroment instead of Environment
+- Receive instead of Receive
+- Occasion instead of Occasion
+- Separate instead of Separate
+- Definitely instead of Definitely
+- Environment instead of Environment
 
 ## Section 2: Grammar Mistakes
 
 Some sentences with bad grammar:
 
-- The cat layed on the mat. (should be **laid**)
-- He dont like pizza. (should be **doesn't**)
-- She go to the store yesterday. (should be **went**)
-- Me and him went to school. (should be **He and I**)
-- She is more taller than me. (should be **taller**)
+- The cat laid on the mat. (should be **laid**)
+- He doesn't like pizza. (should be **doesn't**)
+- She went to the store yesterday. (should be **went**)
+- Him and I went to school. (should be **He and I**)
+- She is taller than me. (should be **taller**)
 
 ## Section 3: Punctuation Errors
 
 Here are some sentences missing punctuations:
 
-- Lets eat grandma (should be **Let's eat, grandma**)
-- I like bananas apples and oranges (should be **I like bananas, apples, and oranges**)
-- Its a nice day today (should be **It's** a nice day today)
-- Do you know where the library is (should be **Do you know where the library is?**)
-- She said "Hello how are you" (should be **She said, "Hello, how are you?"**)
+- Let's eat grandma (should be **Let's eat, grandma**)
+- I like bananas apples, and oranges (should be **I like bananas, apples, and oranges**)
+- It's a nice day today (should be **It's** a nice day today)
+- Do you know where the library is? (should be **Do you know where the library is?**)
+- She said, "Hello how are you?" (should be **She said, "Hello, how are you?"**)
 
 ## Section 4: Formatting Issues
 
