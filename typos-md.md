@@ -1,14 +1,14 @@
 # Typos Practice File
 
-This file contians various typos, grammatical errors, and incorect spellings. Your task is to find and fix them by submitting a pull request.
+This file contains various typos, grammatical errors, and incorrect spellings. Your task is to find and fix them by submitting a pull request.
 
 ## Section 1: Spelling Errors
 
 Here are some commonly misspelled words:
 
-- Recieve instead of Receive
-- Ocassion instead of Occasion
-- Seperate instead of Separate
+- Receive instead of Receive
+- Occasion instead of Occasion
+- Separate instead of Separate
 - Definately instead of Definitely
 - Enviroment instead of Environment
 
