@@ -34,17 +34,18 @@ Here are some sentences missing punctuations:
 
 ## Section 4: Formatting Issues
 
-- **bold text without spaces**like**this** (should be **bold text without spaces like this**)
-- Missing line breaks hereThis should be in a new paragraph. (should have a new line)
+- **bold text without spaces like this** (should be **bold text without spaces like this**)
+- Missing line breaks here
+- This should be in a new paragraph. (should have a new line)
 - Unordered list issue
-  -Item 1
-  -Item 2 (should have spaces after the hyphen)
+  - Item 1
+  - Item 2 (should have spaces after the hyphen)
 
 ## Section 5: Logical Mistakes
 
 - The sun rises in the est. (should be **east**)
-- 2 + 2 = 5 (should be **4**)
-- Water boils at 50°C (should be **100°C at sea level**)
+- 2 + 2 = 4 (should be **4**)
+- Water boils at 10°C (should be **100°C at sea level**)
 
 ## Section 6: Miscellaneous Typos
 
