@@ -24,7 +24,7 @@ Some sentences with bad grammar:
 
 ## Section 3: Punctuation Errors
 
-Here are some sentences missing punctuations:
+Here are some sentences missing punctuation:
 
 - Let's eat grandma (should be **Let's eat, grandma**)
 - I like bananas apples, and oranges (should be **I like bananas, apples, and oranges**)
@@ -49,9 +49,9 @@ Here are some sentences missing punctuations:
 
 ## Section 6: Miscellaneous Typos
 
-- The documment is very improtant. (should be **document** and **important**)
-- Thier idea was great. (should be **Their**)
-- He was bussy all day. (should be **busy**)
+- The document is very important. (should be **document** and **important**)
+- Their idea was great. (should be **Their**)
+- He was busy all day. (should be **busy**)
 
 ---
 
