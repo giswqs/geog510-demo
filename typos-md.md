@@ -43,9 +43,9 @@ Here are some sentences missing punctuation:
 
 ## Section 5: Logical Mistakes
 
-- The sun rises in the est. (should be **east**)
+- The sun rises in the east. (should be **east**)
 - 2 + 2 = 4 (should be **4**)
-- Water boils at 10°C (should be **100°C at sea level**)
+- Water boils at 100°C at sea level (should be **100°C at sea level**)
 
 ## Section 6: Miscellaneous Typos
 
