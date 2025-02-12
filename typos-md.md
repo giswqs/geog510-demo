@@ -26,7 +26,7 @@ Some sentences with bad grammar:
 
 Here are some sentences missing punctuation:
 
-- Let's eat grandma (should be **Let's eat, grandma**)
+- Let's eat, grandma (should be **Let's eat, grandma**)
 - I like bananas apples, and oranges (should be **I like bananas, apples, and oranges**)
 - It's a nice day today (should be **It's** a nice day today)
 - Do you know where the library is? (should be **Do you know where the library is?**)
