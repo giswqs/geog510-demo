@@ -1,4 +1,4 @@
-print("Hellow World")
+print("Hello World")
 
 a = 0
 
