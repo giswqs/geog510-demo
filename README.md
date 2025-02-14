@@ -18,6 +18,8 @@ This is **bold**.
 
 This is _italic_.
 
+This is how you ~~strikethrough text~~
+
 [geography.utk.edu](https://geography.utk.edu)
 
 
