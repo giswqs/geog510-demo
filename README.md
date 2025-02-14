@@ -25,4 +25,14 @@ This is _italic_.
 
 ```python
 print("Hello, world!")
+
+# Print numbers from 1 to 5 using a for loop
+for i in range(1, 6):
+    print(f"For loop iteration: {i}")
+
+# Print numbers from 1 to 5 using a while loop
+count = 1
+while count <= 5:
+    print(f"While loop iteration: {count}")
+    count += 1  # Increment count
 ```
