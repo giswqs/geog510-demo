@@ -2,6 +2,9 @@
 
 I added a line.
 
+
+I also added a line, then I **bolded it** and ~~crossed it out~~.
+
 ## Introduction
 
 This is a demo repository for GEOG 510.
