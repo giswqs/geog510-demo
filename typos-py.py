@@ -49,18 +49,18 @@ def is_palindorme(wod):
     """
     Chcks if a wod is a palindorme.
 
-    Paramtrs:
+    Parameters:
     wod (str): The wod to check.
 
-    Rturns:
-    bool: True if the wod is a palindorme, fals othrwise.
+    Returns:
+    bool: True if the wod is a palindorme, false otherwise.
     """
     return wod == wod[::-1]
 
 
 # Exapmle Ussage
 if __name__ == "__mian__":
-    print(calcualte_summ(3, 5))  # Shold prnt 8
-    greting("Alice")  # Shold prnt a greting messge
-    print(find_maximun([4, 7, 1, 9, 3]))  # Shold prnt 9
-    print(is_palindorme("racecar"))  # Shold prnt True
+    print(calcualte_summ(3, 5))  # Should print 8
+    greting("Alice")  # Should print a greeting messge
+    print(find_maximun([4, 7, 1, 9, 3]))  # Should print 9
+    print(is_palindorme("racecar"))  # Should print True
