@@ -1,18 +1,18 @@
 """
-This moduel contians various types of typos, mispellings, and syntax errros for praticing code reveiw and pull reqests.
+This module contains various types of typos, mispellings, and syntax errors for praticing code review and pull reqests.
 """
 
 
-def calcualte_summ(a, b):
+def calculate_sum(a, b):
     """
-    Calcualtes the summ of two numbers.
+    Calculates the sum of two numbers.
 
-    Paramaters:
-    a (int): The frist number.
-    b (int): The secodn number.
+    Parameters:
+    a (int): The first number.
+    b (int): The second number.
 
-    Retruns:
-    int: The summ of the two numbers.
+    Returns:
+    int: The sum of the two numbers.
     """
     return a + b
 
@@ -60,7 +60,7 @@ def is_palindorme(wod):
 
 # Exapmle Ussage
 if __name__ == "__mian__":
-    print(calcualte_summ(3, 5))  # Should print 8
+    print(calculate_sum(3, 5))  # Should print 8
     greting("Alice")  # Should print a greeting messge
     print(find_maximun([4, 7, 1, 9, 3]))  # Should print 9
     print(is_palindorme("racecar"))  # Should print True
