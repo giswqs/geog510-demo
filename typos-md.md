@@ -1,8 +1,8 @@
-# Geospattial Data Exploratiion and Image Segementation wth GeoAi
+# Geospattial Data Exploratiion and Image Segmentation with GeoAi
 
-## Intoroduction
+## Introduction
 
-Geospatial Data is cruical in varous feilds, including remote sensing, envirnmental science, and urbn planning. The advancments in AI have lead to new oppurtunities for analyzing and intepreting such data. This docuemnt explores the combiantion of Geospatial AI (GeoAI) with image segementation techniques.
+Geospatial Data is cruical in various fields, including remote sensing, environmental science, and urban planning. The advancements in AI have lead to new oppurtunities for analyzing and intepreting such data. This docuemnt explores the combination of Geospatial AI (GeoAI) with image segmentation techniques.
 
 ## Overview of GeoAi
 
@@ -14,7 +14,7 @@ GeoAI combines geospatila data and artifical inteligence to improve decission-ma
 - **Remote sesning data** from satellites and drones
 - **Big data processing** with cloud computing solutons
 
-## Image Segementation using SAMGeo
+## Image Segmentation using SAMGeo
 
 Segemntation of images helps in object idntification, boundry detection, and landcover clasification. SAMGeo, a package developeed for geospattial aplications, enbales users to segment high-resolution images accuratly.
 

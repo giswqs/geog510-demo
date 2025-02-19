@@ -2,6 +2,9 @@
 
 I added a line.
 
+
+I also added a line, then I **bolded it** and ~~crossed it out~~.
+
 ## Introduction
 
 This is a demo repository for GEOG 510.
@@ -18,6 +21,8 @@ This is **bold**.
 
 This is _italic_.
 
+This is how you ~~strikethrough text~~
+
 [geography.utk.edu](https://geography.utk.edu)
 
 
@@ -25,4 +30,14 @@ This is _italic_.
 
 ```python
 print("Hello, world!")
+
+# Print numbers from 1 to 5 using a for loop
+for i in range(1, 6):
+    print(f"For loop iteration: {i}")
+
+# Print numbers from 1 to 5 using a while loop
+count = 1
+while count <= 5:
+    print(f"While loop iteration: {count}")
+    count += 1  # Increment count
 ```

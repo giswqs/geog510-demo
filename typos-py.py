@@ -12,7 +12,8 @@ def calculate_sum(a, b):
     b (int): The second number.
 
     Returns:
-    int: The summ of the two numbers.
+
+    int: The sum of the two numbers.
     """
     return a + b
 
@@ -49,11 +50,11 @@ def is_palindorme(wod):
     """
     Checks if a word is a palindorme.
 
-    Paramtrs:
+    Parameters:
     wod (str): The wod to check.
 
-    Rturns:
-    bool: True if the wod is a palindorme, fals othrwise.
+    Returns:
+    bool: True if the wod is a palindorme, false otherwise.
     """
     return wod == wod[::-1]
 
