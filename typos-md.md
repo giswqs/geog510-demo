@@ -1,32 +1,32 @@
-# Geospattial Data Exploratiion and Image Segmentation with GeoAi
+# Geospatial Data Exploration and Image Segmentation with GeoAi
 
 ## Introduction
 
-Geospatial Data is cruical in various fields, including remote sensing, environmental science, and urban planning. The advancements in AI have lead to new oppurtunities for analyzing and intepreting such data. This docuemnt explores the combination of Geospatial AI (GeoAI) with image segmentation techniques.
+Geospatial Data is crucial in various fields, including remote sensing, environmental science, and urban planning. The advancements in AI have lead to new opportunities for analyzing and interpreting such data. This document explores the combination of Geospatial AI (GeoAI) with image segmentation techniques.
 
 ## Overview of GeoAi
 
-GeoAI combines geospatila data and artifical inteligence to improve decission-making proceses. Using models such as the **Segment Anything Model 2 (SAM2)**, researchers can automate feature extracion from remote sensing images.
+GeoAI combines geospatial data and artificial intelligence to improve decision-making process. Using models such as the **Segment Anything Model 2 (SAM2)**, researchers can automate feature extraction from remote sensing images.
 
-### Key componnents of GeoAI
+### Key components of GeoAI
 
-- **Deep learing models** for classfication and detction
-- **Remote sesning data** from satellites and drones
-- **Big data processing** with cloud computing solutons
+- **Deep learning models** for classification and detection
+- **Remote sensing data** from satellites and drones
+- **Big data processing** with cloud computing solutions
 
 ## Image Segmentation using SAMGeo
 
-Segemntation of images helps in object idntification, boundry detection, and landcover clasification. SAMGeo, a package developeed for geospattial aplications, enbales users to segment high-resolution images accuratly.
+Segmentation of images helps in object identification, boundary detection, and landcover classification. SAMGeo, a package developed for geospatial applications, enables users to segment high-resolution images accurately.
 
 **Steps to use SAMGeo:**
 
-1. Load remote sesning imagery
-2. Apply Segement Anything Model
-3. Extract features and perform post-procesing
+1. Load remote sensing imagery
+2. Apply Segment Anything Model
+3. Extract features and perform post-processing
 4. Visualize results using `leafmap`
 
-## Conlusion
+## Conclusion
 
-GeoAi offers imense potential for enhacing geospatila analysis and envrionmental monitoring. As technolgy continues to develope, the fusion of AI and geospatila data will lead to more acurate and effiient solutions.
+GeoAi offers immense potential for enhancing geospatial analysis and environmental monitoring. As technology continues to develop, the fusion of AI and geospatial data will lead to more accurate and efficient solutions.
 
-> **"The futture of geospatial anlaysis is AI-driven."**
+> **"The future of geospatial analysis is AI-driven."**
