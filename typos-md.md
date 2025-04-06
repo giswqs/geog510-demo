@@ -2,10 +2,6 @@
 
 ## Introduction
 
-Geospatial Data is crucial in various fields, including remote sensing, environmental science, and urban planning. The advancements in AI have lead to new opportunities for analyzing and interpreting such data. This document explores the combination of Geospatial AI (GeoAI) with image segmentation techniques.
-
-## Overview of GeoAi
-
 GeoAI combines geospatial data and artificial intelligence to improve decision-making process. Using models such as the **Segment Anything Model 2 (SAM2)**, researchers can automate feature extraction from remote sensing images.
 
 ### Key components of GeoAI
@@ -13,6 +9,7 @@ GeoAI combines geospatial data and artificial intelligence to improve decision-m
 - **Deep learning models** for classification and detection
 - **Remote sensing data** from satellites and drones
 - **Big data processing** with cloud computing solutions
+
 
 ## Image Segmentation using SAMGeo
 
