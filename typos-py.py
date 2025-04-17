@@ -60,7 +60,7 @@ def is_palindorme(word):
 
 
 # Example Usage
-if __name__ == "__mian__":
+if __name__ == "__main__":
     print(calculate_sum(3, 5))  # Should print 8
     greeting("Alice")  # Should print a greeting message
     print(find_maximum([4, 7, 1, 9, 3]))  # Should print 9
