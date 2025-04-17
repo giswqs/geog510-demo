@@ -46,17 +46,17 @@ def find_maximum(numbers):
     return maximum
 
 
-def is_palindorme(wod):
+def is_palindorme(word):
     """
     Checks if a word is a palindorme.
 
     Parameters:
-    wod (str): The wod to check.
+    word (str): The word to check.
 
     Returns:
-    bool: True if the wod is a palindorme, false otherwise.
+    bool: True if the word is a palindorme, false otherwise.
     """
-    return wod == wod[::-1]
+    return word == word[::-1]
 
 
 # Example Usage
