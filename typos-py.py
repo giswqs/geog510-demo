@@ -2,6 +2,8 @@
 This module contains various types of typos, misspellings, and syntax errors for praticing code review and pull requests.
 """
 
+from typing import Optional
+
 
 def calculate_sum(a: int, b: int) -> int:
     """
@@ -29,7 +31,7 @@ def greeting(name: str) -> None:
     print(f"Hello, {name}! How are you today?")
 
 
-def find_maximum(numbers: list) -> int:
+def find_maximum(numbers: list[int]) -> Optional[int]:
     """
     Finds the maximum number in a list.
 
@@ -39,11 +41,11 @@ def find_maximum(numbers: list) -> int:
     Returns:
     int: The largest number in the list.
     """
-    maximum = numbers[0]
-    for nm in numbers:
-        if nm > maximum:
-            maximum = nm
-    return maximum
+    if not numbers:
+        print("The list is empty.")
+        return None
+
+    return max(numbers)
 
 
 def is_palindorme(word: str) -> str:
@@ -64,4 +66,5 @@ if __name__ == "__main__":
     print(calculate_sum(3, 5))  # Should print 8
     greeting("Alice")  # Should print a greeting message
     print(find_maximum([4, 7, 1, 9, 3]))  # Should print 9
+    print(find_maximum([]))  # Should print None
     print(is_palindorme("racecar"))  # Should print True
